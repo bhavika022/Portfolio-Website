@@ -1,3 +1,3 @@
-# Portfolio-Website[portfolio]
+# Check out my [Portfolio]
 
-[portfolio]: https://bhavika022.github.io/Portfolio/
+[Portfolio]: https://bhavika022.github.io/Portfolio/
